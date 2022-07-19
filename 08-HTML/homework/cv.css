@@ -1,0 +1,51 @@
+#name {
+    font-size: 50px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+
+.imgRedonda{
+    height: 250px;
+    width: 250px;
+    border-radius:150px;
+}
+
+
+
+
+.else{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 900;
+    left: 50px;
+    text-align: justify;
+    background-image: linear-gradient(315deg, #bbf0f3 0%, #f6d285 74%);
+    float: left;
+    padding: 50px;
+}
+
+.else1{
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+    float: left;
+    top: 100px;
+    text-align: justify;
+    width: 1000px;
+}
+
+
+body{ background: url(01.jpg)no-repeat;
+background-size: cover; }
+
+.height{
+    line-height: 0%;
+}
+
+
